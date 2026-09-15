@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jhostinpastor.pages.dev/sitemap.xml
+Sitemap: https://jhostinpastor.jhostinpastorl.workers.dev/sitemap.xml
